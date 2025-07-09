@@ -98,7 +98,7 @@
 $con = mysqli_connect('localhost', 'root');
 
 
-mysqli_select_db($con, 'ashal');
+mysqli_select_db($con, 'praful');
 
 if (isset($_POST['submit'])) {
 
