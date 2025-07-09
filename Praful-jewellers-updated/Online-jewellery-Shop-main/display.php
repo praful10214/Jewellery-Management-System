@@ -12,7 +12,7 @@
   <nav>
     <img src="designs/logo.jpg" alt="logo" width="150px">
     <ul>
-      <li><a href="index.php">Home</a></li>
+      <li><a href="index.html">Home</a></li>
       <li><a href="addrate.php">Rate</a></li>
 
     </ul>
